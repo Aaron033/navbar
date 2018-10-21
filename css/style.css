@@ -37,6 +37,12 @@ nav ul{
 nav li {
     display: inline-block;
     margin-left: 70px; 
-    padding-top: 25px; 
+    padding-top: 23px; 
 }
 
+
+nav a {
+    color: #444; 
+    text-decoration: none;
+    text-transform: uppercase; 
+}
