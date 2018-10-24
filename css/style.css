@@ -75,3 +75,10 @@ nav a::before{
 nav a:hover::before {
     width: 100%;
 }
+
+.mid{
+ font: #FFF; 
+}
+footer{
+    background: #55d6aa; 
+}
