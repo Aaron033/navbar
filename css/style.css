@@ -83,17 +83,16 @@ footer{
     background: #55d6aa; 
     bottom: 0;
     position: absolute;
+    width: 100%;
 }
 
 
-}
 .footer{
-    display: block; 
-   
-    
+    display: grid; 
+    grid-template-columns: 20% 20% 20% 20%;
 }
 
-.grid {
+.body {
     background: #eee; 
     padding: 1em;
   
