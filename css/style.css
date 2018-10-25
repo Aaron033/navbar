@@ -87,3 +87,7 @@ footer{
     display: block; 
 }
 
+.grid > div{
+    background: #eee; 
+    padding: 1em;
+}
