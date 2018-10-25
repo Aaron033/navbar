@@ -1,6 +1,6 @@
 body{
     margin: 0; 
-    background: #222; 
+    background: #eee; 
     font-family: "Work Sans", sans-serif;
     font-weight: 400;
 }
@@ -81,13 +81,21 @@ nav a:hover::before {
 }
 footer{
     background: #55d6aa; 
+    bottom: 0;
+    position: absolute;
 }
 
+
+}
 .footer{
     display: block; 
+   
+    
 }
 
-.grid > div{
+.grid {
     background: #eee; 
     padding: 1em;
+  
+
 }
