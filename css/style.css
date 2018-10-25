@@ -98,3 +98,13 @@ footer{
   
 
 }
+
+footer div ul {
+    list-style: none;
+
+    
+}
+
+footer div ul li a{
+        text-decoration: none;
+}
